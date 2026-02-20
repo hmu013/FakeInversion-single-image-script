@@ -5,5 +5,6 @@ The script loades an image as a base64 string because that is the input for a co
 Result for the two models on SynRIS:
 
 ![Results w. Residuals](assets/results_residuals.png)
+
 ![Results w.o. Residuals](assets/results_no_residuals.png)
 

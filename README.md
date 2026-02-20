@@ -1,6 +1,6 @@
 # FakeInversion-single-image-script
 This is a script to get a prediction for a single image using my implementaiton of the fakeinversion model.
-The scrips loades an image as a base64 string because that is the inputt for a competition it might be uses in.
+The script loades an image as a base64 string because that is the input for a competition it might be used in.
 
 Result for the two models on SynRIS:
 
